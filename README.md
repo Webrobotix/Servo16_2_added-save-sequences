@@ -1,4 +1,5 @@
 # Servo16_2_added-save-sequences
+This version has not been tested!
 Servo controller
 # Webrobotix Servo Controller Servo16_2 (Processing / Arduino)
 
