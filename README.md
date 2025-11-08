@@ -1,5 +1,5 @@
 # Servo16_2_added-save-sequences
-# This version has not been tested!
+# This version needs more testing!
 # Webrobotix Servo Controller Servo16_2 (Processing / Arduino)
 
 This Processing sketch provides a **16-channel RC servo controller interface** with sequence recording and Arduino sketch export.  
