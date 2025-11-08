@@ -36,7 +36,7 @@ MIT License
  * Webrobotix 2020-2025 - Servo16 v2
  * 16-Channel RC Servo Controller Interface with Sequence Recording
  * NEW in v1.6.1: Added Save As button for saving settings with a new filename
- * Servo16.2 added saving keyframes
+ * Servo16.2 added save keyframes
  */
 
 import processing.serial.*;
